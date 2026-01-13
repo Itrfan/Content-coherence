@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+scikit-learn
+sentence-transformers
+torch
+nltk
+joblib
+whisper
+pydub
+ffmpeg-python
